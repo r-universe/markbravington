@@ -1,7 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/markbravington/markbravington.r-universe.dev
 	branch = HEAD
 [submodule "mvbutils"]
 	path = mvbutils
-	url = https://github.com/cran/mvbutils
+	url = https://github.com/markbravington/mvbutils
