@@ -2,6 +2,33 @@
 	path = .registry
 	url = https://github.com/markbravington/markbravington.r-universe.dev
 	branch = HEAD
+[submodule "TMBO"]
+	path = TMBO
+	url = https://github.com/markbravington/TMBO
+[submodule "atease"]
+	path = atease
+	url = https://github.com/markbravington/atease
+[submodule "debug"]
+	path = debug
+	url = https://github.com/markbravington/debug
+[submodule "deconvodisc"]
+	path = deconvodisc
+	url = https://github.com/markbravington/deconvodisc
+[submodule "despack"]
+	path = despack
+	url = https://github.com/markbravington/despack
+[submodule "microscoping"]
+	path = microscoping
+	url = https://github.com/markbravington/microscoping
 [submodule "mvbutils"]
 	path = mvbutils
 	url = https://github.com/markbravington/mvbutils
+[submodule "nicetime"]
+	path = nicetime
+	url = https://github.com/markbravington/nicetime
+[submodule "offarray"]
+	path = offarray
+	url = https://github.com/markbravington/offarray
+[submodule "offartmb"]
+	path = offartmb
+	url = https://github.com/markbravington/offartmb
