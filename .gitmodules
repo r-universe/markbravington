@@ -20,6 +20,9 @@
 [submodule "microscoping"]
 	path = microscoping
 	url = https://github.com/markbravington/microscoping
+[submodule "mvbjoblot"]
+	path = mvbjoblot
+	url = https://github.com/markbravington/mvbjoblot
 [submodule "mvbutils"]
 	path = mvbutils
 	url = https://github.com/markbravington/mvbutils
