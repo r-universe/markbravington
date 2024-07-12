@@ -26,9 +26,6 @@
 [submodule "mvbutils"]
 	path = mvbutils
 	url = https://github.com/markbravington/mvbutils
-[submodule "nicetime"]
-	path = nicetime
-	url = https://github.com/markbravington/nicetime
 [submodule "offarray"]
 	path = offarray
 	url = https://github.com/markbravington/offarray
