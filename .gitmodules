@@ -17,6 +17,9 @@
 [submodule "despack"]
 	path = despack
 	url = https://github.com/markbravington/despack
+[submodule "gasplit"]
+	path = gasplit
+	url = https://github.com/markbravington/gasplit
 [submodule "microscoping"]
 	path = microscoping
 	url = https://github.com/markbravington/microscoping
