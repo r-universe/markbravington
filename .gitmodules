@@ -20,6 +20,9 @@
 [submodule "gasplit"]
 	path = gasplit
 	url = https://github.com/markbravington/gasplit
+[submodule "lyxport"]
+	path = lyxport
+	url = https://github.com/markbravington/lyxport
 [submodule "microscoping"]
 	path = microscoping
 	url = https://github.com/markbravington/microscoping
