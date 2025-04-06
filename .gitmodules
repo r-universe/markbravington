@@ -38,3 +38,6 @@
 [submodule "offartmb"]
 	path = offartmb
 	url = https://github.com/markbravington/offartmb
+[submodule "vecless"]
+	path = vecless
+	url = https://github.com/markbravington/vecless
