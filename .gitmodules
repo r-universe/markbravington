@@ -23,9 +23,6 @@
 [submodule "gbasics"]
 	path = gbasics
 	url = https://github.com/markbravington/gbasics
-[submodule "kinference"]
-	path = kinference
-	url = https://github.com/markbravington/kinference
 [submodule "lyxport"]
 	path = lyxport
 	url = https://github.com/markbravington/lyxport
