@@ -38,6 +38,9 @@
 [submodule "mvbutils"]
 	path = mvbutils
 	url = https://github.com/markbravington/mvbutils
+[submodule "nobcom"]
+	path = nobcom
+	url = https://github.com/markbravington/nobcom
 [submodule "offarray"]
 	path = offarray
 	url = https://github.com/markbravington/offarray
