@@ -26,6 +26,9 @@
 [submodule "gbasics"]
 	path = gbasics
 	url = https://github.com/markbravington/gbasics
+[submodule "kinsimmer2"]
+	path = kinsimmer2
+	url = https://github.com/markbravington/kinsimmer2
 [submodule "lyxport"]
 	path = lyxport
 	url = https://github.com/markbravington/lyxport
